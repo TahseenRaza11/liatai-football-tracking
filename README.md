@@ -5,13 +5,6 @@ This project showcases a complete pipeline for **football player detection**, **
 
 ---
 
-## 📽️ Demo Video
-
-- 🔹 **Detection with Custom Trained YOLOv11**  
-  [![Watch the video](https://img.youtube.com/vi/k6hgFCCpIeE/0.jpg)](https://youtu.be/k6hgFCCpIeE)
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -70,7 +63,7 @@ pip install opencv-python ultralytics torch torchvision numpy pillow scikit-lear
 
 Please download the trained model from the link below and place it inside the `model/` folder:
 
-📥 [Google Drive – Download best.pt](https://drive.google.com/your_model_link_here)
+📥 [Google Drive – Download best.pt](https://drive.google.com/drive/folders/1WuVLSAD9GuLVVet5v49hbRaoH6-ad1wR)
 
 Once downloaded:
 
