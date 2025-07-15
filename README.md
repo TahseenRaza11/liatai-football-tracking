@@ -152,8 +152,3 @@ python main.py
 🔗 LinkedIn: [Tahseen Raza](https://www.linkedin.com/in/tahseen-raza-11a276218/)
 
 ```
-
----
-
-Let me know if you'd like me to generate the matching `requirements.txt`, `.gitignore`, or help you update this with your actual Google Drive model link.
-```
