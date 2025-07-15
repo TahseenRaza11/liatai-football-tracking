@@ -26,7 +26,6 @@ This project showcases a complete pipeline for **football player detection**, **
 ├── utils/                    # Helper functions
 ├── yolo\_inference.py         # Basic inference script
 ├── main.py                   # Full pipeline for tracking & annotation
-├── requirements.txt          # Required dependencies
 └── README.md                 # This file
 
 ````
